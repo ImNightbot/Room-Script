@@ -27,7 +27,7 @@
         "user": null
     },
     "images": {
-        "background": "https://cdn.radiant.dj/rcs/bg/16.png",
+        "background": "https://cdn.radiant.dj/rcs/bg/14_preview.png",
         "playback": null,
         "admin": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador": "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
@@ -38,7 +38,8 @@
         "rdj": "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
         "subscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png",
         "silversubscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
-    ,
+    },
     "emotes": {
     	"emote_name": null
       }
+    }
