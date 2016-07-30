@@ -1,12 +1,12 @@
 {
     "room": "☆☆☆Lithuanian Paradise☆☆☆",
-    "author": "Author",
+    "author": "DjEfka",
     "icon": null,
     "css": null,
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
-        "allowAutojoin": false,
+        "allowAutojoin": true,
         "allowAutograb": true,
         "allowSmartVote": true,
         "allowEmotes": true,
@@ -27,7 +27,7 @@
         "user": null
     },
     "images": {
-        "background": null,
+        "background": "https://i.imgur.com/N82wzhY.png",
         "playback": null,
         "admin": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador": "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
@@ -38,8 +38,7 @@
         "rdj": "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
         "subscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png",
         "silversubscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
-},
-  "emotes": {
+    ,
+    "emotes": {
     	"emote_name": null
-    }
-}
+      }
